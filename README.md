@@ -1,2 +1,2 @@
-# auto_tests
-course
+Python+selenium=goodjob
+stepik.org
